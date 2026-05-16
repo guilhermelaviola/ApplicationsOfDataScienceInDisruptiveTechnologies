@@ -14,7 +14,7 @@ My school homework from **#DescomplicaDigital** on Applications of Data Science 
 10. GOTURN (Generic Object Tracking Using Regression Networks)
 11. Meanshift
 12. CAMShift (Continuously Adaptive Meanshift)
-13. Optical Flow Sparse
-14. Optical Flow Dense
+13. Sparse Optical Flow
+14. Dense Optical Flow
 15. Emerging Trends in Object Tracking
 16. Future Innovations in Disruptive Technologies
